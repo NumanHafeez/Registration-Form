@@ -1,0 +1,48 @@
+.back {
+	background-image: url(pexel.png);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+}
+
+.simple-form{
+	text-align: center;
+	margin: 100px 400px;
+}
+#registration{
+	width: 100%;
+	background-color: #9ACD32;
+	opacity: 0.9;
+	padding: 50px 0px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 1px;
+}
+#ph{
+
+	padding: 10px;
+	border-radius: 5px;
+	outline: 1px;
+}
+#phone{
+	width: 185px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 1px;
+}
+#but{
+	color: white;
+	font-size: 18px;
+}
+#butt{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 1px;
+	background-color: #000000;
+	color: white;
+	font-size: 18px;
+	border: 2px solid #01010c; 
+}
